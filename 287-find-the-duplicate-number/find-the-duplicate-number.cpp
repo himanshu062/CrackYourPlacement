@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     int findDuplicate(std::vector<int>& nums) {
         int left = 1;
         int right = nums.size() - 1;
